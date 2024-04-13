@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-//Modified By: Ryan Pirtle
+//Ryan Pirtle
 
 public class TempArrays {
     private ArrayList<Object[]> arrays;
